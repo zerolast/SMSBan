@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_expand_devider.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\expand_devider.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_broadcast_activity.xml.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\layout\\layout_broadcast_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_image_on_null_image.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-xhdpi\\profile_image_on_null_image.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_for_item_click.xml.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\layout\\dialog_for_item_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_list_row_item.xml.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\layout\\contact_list_row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reset.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_image_on_null_image.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-mdpi\\profile_image_on_null_image.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_arrow.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_image_on_null_image.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-hdpi\\profile_image_on_null_image.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kaush\\AndroidStudioProjects\\SMSBaningNew\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

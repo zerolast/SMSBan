@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smsben"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+8        android:minSdkVersion="8"
+8-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+9        android:targetSdkVersion="10" />
+9-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:15-44
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:7:4-70
+11-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:7:21-68
+12    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+12-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:8:4-68
+12-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:8:21-66
+13    <uses-permission android:name="android.permission.READ_SMS" />
+13-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:9:4-65
+13-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:9:21-63
+14    <uses-permission android:name="android.permission.WRITE_SMS" />
+14-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:10:4-66
+14-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:10:21-64
+15    <uses-permission android:name="android.permission.CALL_PHONE" />
+15-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:11:4-67
+15-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:11:21-65
+16    <uses-permission android:name="android.permission.SEND_SMS" />
+16-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:12:4-65
+16-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:12:21-63
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:13:4-79
+17-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:13:21-77
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:14:4-73
+18-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:14:21-71
+19
+20    <application
+20-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:17:5-41:19
+21        android:name="com.example.smsben.MyApplication"
+21-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:22:9-38
+22        android:allowBackup="true"
+22-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:18:9-35
+23        android:debuggable="true"
+24        android:icon="@drawable/ic_launcher"
+24-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:19:9-45
+25        android:label="@string/app_name"
+25-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:20:9-41
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:21:9-40
+28        <activity
+28-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:24:9-34:20
+29            android:name="com.example.smsben.MainActivity"
+29-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:25:13-59
+30            android:label="@string/app_name"
+30-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:26:13-45
+31            android:screenOrientation="portrait" >
+31-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:27:13-49
+32            <intent-filter>
+32-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:29:13-33:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:30:17-69
+33-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:30:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:32:17-77
+35-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:32:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <receiver android:name="com.example.smsben.MyReceiver" >
+39-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:35:9-39:20
+39-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:35:19-44
+40            <intent-filter android:priority="1000" >
+40-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:36:13-38:29
+40-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:36:28-51
+41                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+41-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:37:17-81
+41-->C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:37:25-79
+42            </intent-filter>
+43        </receiver>
+44    </application>
+45
+46</manifest>

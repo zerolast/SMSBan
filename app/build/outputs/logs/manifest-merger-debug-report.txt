@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:7:4-70
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:7:21-68
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:8:4-68
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:8:21-66
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:9:4-65
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:9:21-63
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:10:4-66
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:10:21-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:11:4-67
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:11:21-65
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:12:4-65
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:12:21-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:13:4-79
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:13:21-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:14:4-73
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:14:21-71
+uses-sdk
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:15-44
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:15:5-47
+		INJECTED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:17:5-41:19
+	android:label
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:22:9-38
+activity#com.example.smsben.MainActivity
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:25:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:32:27-74
+receiver#com.example.smsben.MyReceiver
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:35:9-39:20
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:35:19-44
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:36:13-38:29
+	android:priority
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:36:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from C:\Users\kaush\AndroidStudioProjects\SMSBaningNew\app\src\main\AndroidManifest.xml:37:25-79
